@@ -31,7 +31,7 @@ class GitPojo {
 
     private val public_repos: String? = null
 
-    private val name: String? = null
+    val name: String? = null
 
     private val following_url: String? = null
 
@@ -39,7 +39,7 @@ class GitPojo {
 
     private val events_url: String? = null
 
-    private val login: String? = null
+    val login: String? = null
 
     private val subscriptions_url: String? = null
 
